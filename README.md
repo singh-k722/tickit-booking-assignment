@@ -1,1 +1,1 @@
-# tickit-booking-assignment
+# ticket-booking
